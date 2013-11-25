@@ -1,0 +1,3 @@
+FoodInformation [name=doritos, price=1.5, nutrition=very triangle, itemNum=1]
+Your total is 1.5
+Your change is 8.5

@@ -1,0 +1,16 @@
+cheetos
+2.00
+very salty
+0
+doritos
+1.50
+very triangle
+1
+chex
+3.00
+not tasty
+2
+lays
+4.00
+very scratch
+3
